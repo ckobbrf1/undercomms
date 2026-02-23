@@ -1,5 +1,3 @@
-# README.md — без эмодзи, с мемчиками
-markdown
 # UnderComms — Undertale/Deltarune Style Chat for Garry's Mod
 
  ██████╗ ██╗     ██╗████████╗ ██████╗██╗  ██╗██╗      █████╗ ██████╗ 
